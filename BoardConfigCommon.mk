@@ -48,7 +48,7 @@ TARGET_RECOVERY_DEVICE_DIRS += device/samsung/n80xx
 
 # Recovery
 # inherit from the proprietary version
--include vendor/samsung/n80xx-common/BoardConfigVendor.mk
+-include vendor/samsung/n80xx/BoardConfigVendor.mk
 
 
 # SELinux
